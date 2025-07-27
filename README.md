@@ -1,4 +1,4 @@
-#📰 Fake or Real News Detection
+📰 Fake or Real News Detection
 Detect whether a news article is Fake or Real using supervised machine learning algorithms. This project demonstrates the application of text preprocessing, feature extraction with TF-IDF, and classification using Multinomial Naive Bayes and K-Nearest Neighbors (KNN), with detailed evaluation.
 
 🚀 Overview

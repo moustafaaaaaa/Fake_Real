@@ -1,4 +1,4 @@
-📰 Fake or Real News Detection
+#📰 Fake or Real News Detection
 Detect whether a news article is Fake or Real using supervised machine learning algorithms. This project demonstrates the application of text preprocessing, feature extraction with TF-IDF, and classification using Multinomial Naive Bayes and K-Nearest Neighbors (KNN), with detailed evaluation.
 
 🚀 Overview
@@ -18,7 +18,8 @@ Evaluation Metrics: Precision, Recall, F1-score, and Accuracy
 ✅ Multinomial Naive Bayes
 Accuracy: 95%
 
-Class	Precision	Recall	F1-Score	Support
+Class	
+       Precision	Recall	F1-Score	Support
 Real (0)	0.95	0.96	0.96	1024
 Fake (1)	0.95	0.95	0.95	956
 Macro Avg	0.95	0.95	0.95	1980
@@ -27,7 +28,8 @@ Weighted Avg	0.95	0.95	0.95	1980
 ✅ K-Nearest Neighbors (KNN)
 Accuracy: 97%
 
-Class	Precision	Recall	F1-Score	Support
+Class
+         Precision	Recall	F1-Score	Support
 Real (0)	0.99	0.96	0.97	1024
 Fake (1)	0.96	0.99	0.97	956
 Macro Avg	0.97	0.97	0.97	1980
